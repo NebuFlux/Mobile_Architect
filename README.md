@@ -1,6 +1,6 @@
 # MyInventory App
 
-![App Logo](/login_image) 
+<img src="https://github.com/NebuFlux/Mobile_Architect/blob/main/login_image.jpg" alt="Hero Image" width="200"/>
 
 A mobile inventory management application built for Android, designed to streamline warehouse operations by providing efficient inventory tracking, user authentication, and real-time notifications. This app addresses the needs of warehouse laborers, supervisors, and executives by enabling secure access to inventory data, quick updates, and alerts for low stock levels.
 
@@ -40,16 +40,16 @@ This app addresses user needs such as real-time inventory visibility for laborer
 
 ## Screenshots
 
-- **Login Screen**: Hero image with username/password fields and sign-up link.  
-  ![Login Screen](/Login.png)
-- **Grid View Screen**: Inventory grid with add and filter buttons.  
-  ![Grid View](/GridView.png)
-- **Item View Screen**: Editable item details with increment/decrement controls.  
-  ![Item View](/ItemDetails.png)
-- **Add Item Screen**: Input fields with camera integration and location dropdowns.  
-  ![Add Item](/AddItem.png)
-- **Sign Up Screen**: Form for creating accounts with validation.  
-  ![Sign Up](/SignUp.png)
+### App Screenshots
+
+| Authentication Flows                                      | Main Inventory Screens                                 |
+|-----------------------------------------------------------|--------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/NebuFlux/Mobile_Architect/main/Login.png" alt="Login Screen" width="350"/><br>**Login Screen**<br>Hero image with username/password fields and sign-up link | <img src="https://raw.githubusercontent.com/NebuFlux/Mobile_Architect/main/GridView.png" alt="Grid View Screen" width="350"/><br>**Grid View Screen**<br>Inventory grid with add and filter buttons |
+| <img src="https://raw.githubusercontent.com/NebuFlux/Mobile_Architect/main/SignUp.png" alt="Sign Up Screen" width="350"/><br>**Sign Up Screen**<br>Form for creating accounts with validation | <img src="https://raw.githubusercontent.com/NebuFlux/Mobile_Architect/main/ItemDetails.png" alt="Item View Screen" width="350"/><br>**Item View Screen**<br>Editable details with increment/decrement controls |
+
+| Item Management                                           |
+|-----------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/NebuFlux/Mobile_Architect/main/AddItem.png" alt="Add Item Screen" width="350"/><br>**Add Item Screen**<br>Input fields with camera integration and location dropdowns |
 
 ## Installation
 
@@ -111,5 +111,6 @@ Testing was conducted through iterative trial-and-error on emulators and physica
 
 The layout and theming were particularly successful, adhering to Material Design 3 principles with custom color schemes and responsive modifiers, demonstrating strong skills in creating intuitive, visually consistent UIs.
 
+## Contact
 Joshua Shoemaker  
 GitHub: [NebuFlux](https://github.com/NebuFlux)
